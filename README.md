@@ -18,3 +18,6 @@ psk="your_wifi_password"
 3) Load the SD card in rpi and power it on.
 4) On Router admin page, you can check the Dynamic IP allocated to the rpi.
 
+############################################
+# Install Apache php
+https://randomnerdtutorials.com/raspberry-pi-apache-mysql-php-lamp-server/
