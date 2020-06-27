@@ -21,3 +21,8 @@ psk="your_wifi_password"
 ############################################
 # Install Apache php
 https://randomnerdtutorials.com/raspberry-pi-apache-mysql-php-lamp-server/
+
+
+Upload Ubuntu server on Raspberry pi
+
+https://ubuntu.com/tutorials/how-to-install-ubuntu-on-your-raspberry-pi#4-boot-ubuntu-server
