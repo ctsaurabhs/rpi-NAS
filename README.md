@@ -1,6 +1,7 @@
+############################################
 # rpi-NAS
 
-#Setting headless rpi
+# Setting headless rpi
 1) Write image to the SD card. It has 2 partitions rootf and boot
 2) Under boot :
 - create an empty file ssh (this will allow rpi to have ssh server and it can be accessed using ssh or via putty)
@@ -22,6 +23,7 @@ psk="your_wifi_password"
 # Install Apache php
 https://randomnerdtutorials.com/raspberry-pi-apache-mysql-php-lamp-server/
 
+https://devanswers.co/phpmyadmin-access-denied-for-user-root-localhost/
 
 Upload Ubuntu server on Raspberry pi
 
